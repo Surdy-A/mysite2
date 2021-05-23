@@ -31,7 +31,7 @@ const PortfolioContent = [
         "category": "WebDevelopment",
         "project_title": "Portfolio",
         "description": "My personal porfolio.",
-        "url": "https://surdy-a.github.io",
+        "url": "https://surdy-a.github.io/mysite2",
         "image": "assets/images/portfolio.png"
     },
     {
@@ -160,7 +160,7 @@ const PortfolioContent = [
         "category": "MobileApp",
         "project_title": "SLearn Mobile",
         "description": "An online learning platform for android devices.",
-        "url": "https://slearn.pythonanywhere.com/",
+        "url": "https://drive.google.com/uc?id=152oHshbwEOW9Bgv9rSxlJ-r-rhILXMJE&export=download",
         "image": "assets/images/slearnMobile.jpeg"
     }
 ]
